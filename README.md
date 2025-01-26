@@ -11,4 +11,4 @@ This is a physics simulation for fireworks! The idea was to simulate a firework 
   All of the goals were achieved.
 </p>
 
-<img src="dara/example.gif">
+<img src="data/example.gif">
