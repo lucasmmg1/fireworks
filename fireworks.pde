@@ -23,9 +23,10 @@ void draw()
   var tempFireworks = new ArrayList<FireworkParticles>(fireworks);
   for (FireworkParticles firework : tempFireworks) 
   {
-    if (firework.explosionParticlesOutsideScreen == firework.explosionParticlesRatio)
+    if (firework.explosionParticles.size() != 0 && firework.explosionParticles.get(0).lifespan <= 0)
     {
       fireworks.remove(firework);
+      background(0);
       continue;
     }
     
