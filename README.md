@@ -3,7 +3,7 @@ This is a physics simulation for fireworks! The idea was to simulate a firework 
 
 <h2> Goals </h2>
 <p>
-	<b> To simulate a firework trajectory, it's trail and it's explosion based on an explosion force and dissipassion formula, simulating the light from it's particles too. </b>
+	To simulate a firework trajectory, it's trail and it's explosion based on an explosion force and dissipassion formula, simulating the light from it's particles too.
 </p>
 
 <h2> Achieved </h2>
